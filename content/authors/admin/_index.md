@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 放松
+title: ''
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
