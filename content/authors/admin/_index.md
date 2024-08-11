@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chill PHD
+title: Nikita Karagodin PHD in Chill
 
 # Name pronunciation (optional)
 name_pronunciation: ''
