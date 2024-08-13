@@ -1,5 +1,5 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
+title: My first post
 date: 2024-08-11
 ---
 
