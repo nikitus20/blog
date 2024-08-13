@@ -141,25 +141,20 @@ skills:
       - name: Machine Learning
         description: ''
         percent: 75
-        icon: devicon/machinelearning
       - name: Mathematical Modeling
         description: ''
         percent: 85
-        icon: devicon/mathematicalmodeling
   - name: Hobbies
     items:
       - name: Reading
         description: ''
         percent: 90
-        icon: book
       - name: Traveling
         description: ''
         percent: 70
-        icon: airplane
       - name: Photography
         description: ''
         percent: 60
-        icon: camera
 
 languages:
   - name: English
@@ -169,25 +164,20 @@ languages:
 
 awards:
   - title: International Mathematical Competition
-    date: '2020'
+    date: '2020-01-01'
     awarder: Grand First Prize (Top 1.5%)
-    icon: trophy
   - title: Möbius Contest
-    date: '2021'
+    date: '2021-01-01'
     awarder: Second Prize
-    icon: medal
   - title: HSE & Siberian.Capital Student Research Competition
-    date: '2022'
+    date: '2022-01-01'
     awarder: First Prize
-    icon: medal
   - title: International Mathematical Olympiad
-    date: '2016'
+    date: '2016-01-01'
     awarder: Silver Medal (Top 19%)
-    icon: medal
   - title: Russian Mathematical Olympiad
-    date: '2016'
+    date: '2016-01-01'
     awarder: Gold Medal (Top 4%)
-    icon: medal
 ---
 
 Hi, I am Nikita, a PHD student at MIT. I am working with professor Yury Polyanskiy. My research is mainly focused on theoretical machine learning.
