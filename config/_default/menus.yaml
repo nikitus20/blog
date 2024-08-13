@@ -11,3 +11,6 @@ main:
   - name: Uses
     url: uses/
     weight: 30
+  - name: CV  
+    url: "cv/"  
+    weight: 40  
