@@ -68,23 +68,13 @@ education:
     date_start: 2021-01-01
     date_end: 2023-12-31
     summary: |
-      GPA: 3.93/4.0
-
-      Courses included:
-      - Advanced Probability
-      - Mathematical Statistics
-      - Stochastic Processes
+      GPA: 4.92/5.0
   - area: BSc in Mathematics
     institution: Saint Petersburg State University
     date_start: 2017-01-01
     date_end: 2021-12-31
     summary: |
       GPA: 5.0/5.0
-      
-      Courses included:
-      - Real Analysis
-      - Abstract Algebra
-      - Differential Equations
   - area: Data Science Program
     institution: Computer Science Center
     date_start: 2019-01-01
@@ -129,7 +119,7 @@ work:
     date_start: 2017-01-01
     date_end: 2021-12-31
     summary: |
-      Taught mathematics to high school students.
+      Taught olympiad mathematics to high school students.
 
 skills:
   - name: Technical Skills
@@ -144,23 +134,6 @@ skills:
       - name: Mathematical Modeling
         description: ''
         percent: 85
-  - name: Hobbies
-    items:
-      - name: Reading
-        description: ''
-        percent: 90
-      - name: Traveling
-        description: ''
-        percent: 70
-      - name: Photography
-        description: ''
-        percent: 60
-
-languages:
-  - name: English
-    percent: 100
-  - name: Russian
-    percent: 100
 
 awards:
   - title: International Mathematical Competition(2020)
