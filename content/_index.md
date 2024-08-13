@@ -12,6 +12,9 @@ sections:
         padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
+    banner:
+        # Upload your cover image to the `assets/media/` folder and reference it here
+        filename: sky.png
   - block: collection
     content:
       filters:
