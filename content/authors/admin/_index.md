@@ -164,19 +164,19 @@ languages:
 
 awards:
   - title: International Mathematical Competition
-    date: '2020-01-01'
+    date: '2020'
     awarder: Grand First Prize (Top 1.5%)
   - title: Möbius Contest
-    date: '2021-01-01'
+    date: '2021'
     awarder: Second Prize
   - title: HSE & Siberian.Capital Student Research Competition
-    date: '2022-01-01'
+    date: '2022'
     awarder: First Prize
   - title: International Mathematical Olympiad
-    date: '2016-01-01'
+    date: '2016'
     awarder: Silver Medal (Top 19%)
   - title: Russian Mathematical Olympiad
-    date: '2016-01-01'
+    date: '2016'
     awarder: Gold Medal (Top 4%)
 ---
 
