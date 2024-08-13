@@ -63,7 +63,6 @@ appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
-  font_size: xs
+  font_size: m
 
-customCSS:
-  - "css/custom.css"
+
