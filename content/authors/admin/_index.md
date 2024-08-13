@@ -165,14 +165,19 @@ languages:
 awards:
   - title: International Mathematical Competition(2020)
     awarder: Grand First Prize (Top 1.5%)
+    date: ""
   - title: Möbius Contest(2021)
     awarder: Second Prize
+    date: ""
   - title: HSE & Siberian.Capital Student Research Competition(2022)
     awarder: First Prize
+    date: ""
   - title: International Mathematical Olympiad(2016)
     awarder: Silver Medal (Top 19%)
+    date: ""
   - title: Russian Mathematical Olympiad(2016)
     awarder: Gold Medal (Top 4%)
+    date: ""
 ---
 
 Hi, I am Nikita, a PHD student at MIT. I am working with professor Yury Polyanskiy. My research is mainly focused on theoretical machine learning.
