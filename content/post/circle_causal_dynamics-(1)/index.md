@@ -1,7 +1,6 @@
 ---
 title: Circle Causal Dynamics (1)
 date: '2024-08-13'
-style: 'font-size: 8px;'
 ---
 ```python
 import numpy as np
