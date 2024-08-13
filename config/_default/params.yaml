@@ -59,5 +59,11 @@ features:
     content_dir: starters/blog/content
     branch: main
 
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: M
+
 customCSS:
   - "css/custom.css"
