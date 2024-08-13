@@ -1,6 +1,11 @@
 ---
 title: Circle Causal Dynamics (1)
 date: '2024-08-13'
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: xs
 ---
 ```python
 import numpy as np

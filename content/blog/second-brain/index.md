@@ -9,6 +9,11 @@ tags:
   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: xs
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
