@@ -12,7 +12,7 @@ main:
     url: "cv/"  
     weight: 30
   - name: Publications
-    url: publication/
+    url: publications/
     weight: 40
   - name: Meditations
     url: meditations/
