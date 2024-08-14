@@ -4,10 +4,12 @@ date: 2023-10-24
 type: landing
 layout: landing
 sections:
-  - block: list
+  - block: collection
     content:
       filters:
         folders:
           - publication
+    design:
+      view: list
 ---
 Here is a list of my papers.
