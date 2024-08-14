@@ -8,6 +8,6 @@ sections:
     content:
       filters:
         folders:
-          - blog
+          - publication
 ---
 Here is a list of my papers.
