@@ -5,9 +5,9 @@ type: landing
 layout: landing
 sections:
   - block: collection
-    content:
-      source: content/
-      filters:
-        folders:
-          - publication
+      content:
+        filters:
+          folders:
+            - blog
 ---
+Here is a list of my papers.
