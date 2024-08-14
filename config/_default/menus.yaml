@@ -8,9 +8,13 @@ main:
   - name: Topics
     url: tags/
     weight: 20
-  - name: Tools
-    url: tools/
-    weight: 30
   - name: CV  
     url: "cv/"  
-    weight: 40  
+    weight: 30
+  - name: Publications
+    url: publications/
+    weight: 40
+  - name: Meditations
+    url: meditations/
+    weight: 50
+   
