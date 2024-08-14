@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 layout: landing
 sections:
-  - block: collection
+  - block: list
     content:
       filters:
         folders:
