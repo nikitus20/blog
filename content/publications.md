@@ -10,6 +10,6 @@ sections:
         folders:
           - publication
     design:
-      view: showcase
+      view: citation
 ---
 Here is a list of my papers.
