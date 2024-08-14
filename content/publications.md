@@ -6,8 +6,8 @@ layout: landing
 sections:
   - block: collection
     content:
-      source: content/publications
+      source: content/
       filters:
         folders:
-          - publications
+          - publication
 ---
