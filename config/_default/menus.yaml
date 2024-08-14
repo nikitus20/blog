@@ -8,8 +8,8 @@ main:
   - name: Topics
     url: tags/
     weight: 20
-  - name: Uses
-    url: uses/
+  - name: Tools
+    url: tools/
     weight: 30
   - name: CV  
     url: "cv/"  
