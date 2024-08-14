@@ -1,5 +1,5 @@
 ---
-title: 'My Papers'
+title: Pumblications
 date: 2023-10-24
 type: landing
 layout: landing
@@ -12,4 +12,4 @@ sections:
     design:
       view: citation
 ---
-Here is a list of my papers.
+Here you can find a list of my works.
