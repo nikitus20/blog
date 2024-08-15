@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nikita Karagodin PHD in Chill
+title: Nikita Karagodin
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -25,18 +25,16 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include chill, coffee and surfing.
+bio: I love math, coffee and chill.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nikitus@mit.edu'
     label: E-mail Me
   - icon: brands/telegram
     url: '@nikita_karagodin'
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/linkedin
     url: 'https://www.linkedin.com/in/nikitus/'
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -153,5 +151,7 @@ awards:
     date: ""
 ---
 
-Hi, I am Nikita, a PHD student at MIT. I am working with professor Yury Polyanskiy. My research is mainly focused on theoretical machine learning.
+## Hello everyone!
+I am Nikita, a PHD student at MIT. I am lucky to be working with professor Yury Polyanskiy. My current research is mainly focused on understanding theoretical properties of transformers through the lense of dynamical systems. 
+
 
