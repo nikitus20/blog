@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 'PHD @ LIDS, MIT'
+role: 'PHD @ LIDS'
 
 # Organizations/Affiliations to show in About widget
 organizations:

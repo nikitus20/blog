@@ -1,5 +1,5 @@
 ---
-title: Pumblications
+title: Publications
 date: 2023-10-24
 type: landing
 layout: landing
