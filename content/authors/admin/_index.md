@@ -152,6 +152,7 @@ awards:
 ---
 
 ## Hello everyone!
-I am Nikita, a PHD student at MIT. I am lucky to be working with professor Yury Polyanskiy. My current research is mainly focused on understanding theoretical properties of transformers through the lense of dynamical systems. 
 
+I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of [Professor Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). My passion for science drives my research, which primarily focuses on theoretical aspects of AI. I'm particularly interested in uncovering the fundamental properties that enhance AI interpretability, stability, and efficiency.
 
+As an IMO medalist, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/). My current work delves into the theoretical properties of transformers, viewed through the lens of dynamical systems. For more details, feel free to explore my research page.
