@@ -30,14 +30,16 @@ bio: I love math, coffee and chill.
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:nikitus@mit.edu'
-    label: E-mail Me
-  - icon: brands/telegram
-    url: 'https://t.me/s/nikita_karagodin'
   - icon: brands/linkedin
     url: 'https://www.linkedin.com/in/nikitus/'
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
+  - icon: at-symbol
+    url: 'mailto:nikitus@mit.edu'
+    label: E-mail Me
+  - icon: brands/github
+    url: 'https://github.com/nikitus20'
+  - icon: brands/telegram
+    url: 'https://t.me/s/nikita_karagodin'
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
@@ -145,11 +147,6 @@ awards:
 
 ## Hello everyone!
 
-I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of Professor [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). 
-My passion for science drives my research, which currently focuses on theoretical aspects of AI. 
-With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/). 
-
-I'm particularly interested in uncovering the fundamental properties that enhance AI interpretability, stability, and efficiency.
+I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of Professor [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/). That is why I'm particularly interested in uncovering the fundamental properties that enhance AI interpretability, stability, and efficiency.
 My current work delves into the theoretical properties of transformers, viewed through the lens of dynamical systems. For more details, feel free to explore my research page.
-
 
