@@ -34,16 +34,14 @@ profiles:
     url: 'mailto:nikitus@mit.edu'
     label: E-mail Me
   - icon: brands/telegram
-    url: '@nikita_karagodin'
+    url: 'https://t.me/s/nikita_karagodin'
   - icon: brands/linkedin
     url: 'https://www.linkedin.com/in/nikitus/'
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -52,7 +50,7 @@ highlight_name: true
 website: ""
 
 education:
-  - area: PhD in Computer Science
+  - area: PhD in Artificial Intelligence and Decision Making
     institution: Massachusetts Institute of Technology
     date_start: 2023-09-01
     date_end: ''
@@ -61,18 +59,12 @@ education:
     button:
       text: 'View Research'
       url: 'https://example.com'
-  - area: MSc in Mathematics
-    institution: Saint Petersburg State University
-    date_start: 2021-01-01
-    date_end: 2023-12-31
-    summary: |
-      GPA: 4.92/5.0
-  - area: BSc in Mathematics
+  - area: BSc \& MSc in Mathematics
     institution: Saint Petersburg State University
     date_start: 2017-01-01
-    date_end: 2021-12-31
+    date_end: 2023-12-31
     summary: |
-      GPA: 5.0/5.0
+      GPA: 4.96/5.0
   - area: Data Science Program
     institution: Computer Science Center
     date_start: 2019-01-01
@@ -153,6 +145,11 @@ awards:
 
 ## Hello everyone!
 
-I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of [Professor Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). My passion for science drives my research, which primarily focuses on theoretical aspects of AI. I'm particularly interested in uncovering the fundamental properties that enhance AI interpretability, stability, and efficiency.
+I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of Professor [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). 
+My passion for science drives my research, which currently focuses on theoretical aspects of AI. 
+With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/). 
 
-As an IMO medalist, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/). My current work delves into the theoretical properties of transformers, viewed through the lens of dynamical systems. For more details, feel free to explore my research page.
+I'm particularly interested in uncovering the fundamental properties that enhance AI interpretability, stability, and efficiency.
+My current work delves into the theoretical properties of transformers, viewed through the lens of dynamical systems. For more details, feel free to explore my research page.
+
+
