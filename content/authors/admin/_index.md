@@ -52,7 +52,7 @@ highlight_name: true
 website: ""
 
 education:
-  - area: PhD in Artificial Intelligence and Decision Making
+  - area: PhD in Computer Science
     institution: Massachusetts Institute of Technology
     date_start: 2023-09-01
     date_end: ''
