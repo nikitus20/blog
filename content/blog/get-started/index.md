@@ -17,8 +17,12 @@ tags:
 ---
 
 Welcome 👋
+![Alt Text](/images/your-gif-file.gif)
+
+
 
 {{< toc mobile_only=true is_open=true >}}
+
 
 ## This is just a post.
 
