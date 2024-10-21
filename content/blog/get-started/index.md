@@ -17,7 +17,7 @@ tags:
 ---
 
 Welcome 👋
-![Alt Text](/images/your-gif-file.gif)
+![Alt Text](/images/both_dynamics.gif)
 
 
 
