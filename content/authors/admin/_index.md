@@ -147,6 +147,8 @@ awards:
 
 ## Hello everyone!
 
-I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of Professor [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/). That is why I'm particularly interested in uncovering the fundamental properties that enhance AI interpretability, stability, and efficiency.
-My current work delves into the theoretical properties of transformers, viewed through the lens of dynamical systems. For more details, feel free to explore my research page.
+I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of Professor [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). 
+With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/). That is why I'm particularly interested in uncovering the fundamental properties that enhance AI interpretability, stability, and efficiency.
+
+My current research is dedicated to the theoretical properties of transformers, viewed through the lens of dynamical systems. For more details, feel free to explore my research page.
 
