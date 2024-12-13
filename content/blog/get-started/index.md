@@ -1,6 +1,6 @@
 ---
 title: NeurIPS 2024
-summary: An experiment
+summary: General overview of the paper [Clustering in Causal Attention Masking](https://arxiv.org/abs/2411.04990)
 date: 2024-12-13
 
 # Featured image
