@@ -9,7 +9,7 @@ main:
     url: tags/
     weight: 20
   - name: CV  
-    url: "cv/"  
+    url: "uploads/resume.pdf"  
     weight: 30
   - name: Publications
     url: publications/
