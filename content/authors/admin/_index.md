@@ -131,7 +131,7 @@ awards:
   - title: International Mathematical Competition(2020)
     awarder: Grand First Prize (Top 1.5%)
     date: ""
-  - title: Möbius Contest(2021)
+  - title: Möbius Student Research Contest(2021)
     awarder: Second Prize
     date: ""
   - title: HSE & Siberian.Capital Student Research Competition(2022)
@@ -150,7 +150,7 @@ awards:
 I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of Professor [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). 
 Coming from a mathematical background, I am interested in uncovering the fundamental reasons underlying success of modern AI models. My current research is focused on theoretical properties of transformers.
 
-With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/) and would love to see this field develop further.
+With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/), and I would love to see this field develop further.
 
 
 

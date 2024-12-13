@@ -1,6 +1,6 @@
 ---
 title: NeurIPS 2024
-summary: General overview of the paper [Clustering in Causal Attention Masking](https://arxiv.org/abs/2411.04990)
+summary: General overview of the poster Clustering in Causal Attention Masking
 date: 2024-12-13
 
 # Featured image
@@ -23,7 +23,7 @@ I am happy to present my first graduate paper [Clustering in Causal Attention Ma
 ## The main system
 Similar to how ResNets are studied via neural ODEs, one can write down the dynamical system that models propagation of tokens 
 through layers of a pre-trained transformer, see [Geshkovski et al](https://arxiv.org/abs/2312.10794) for a 
-fundamental introduction into this model. After several assumptions we arrive to
+fundamental introduction into this model. After several assumptions we arrive to the main equation. Tokens, represented as vectors $x_k, k \in [n]$ on a $d$-dimensional unit sphere (this assumption comes from normalisation layer), evolve according to a system of non-linear differential equations
 $$
 x_k = P_{x_k}(\frac{1}{Z_k} \sum_{j=1}^k e^{\beta \langle W_Q x_k, W_K x_j, \rangle} W_V x_j).
 $$
