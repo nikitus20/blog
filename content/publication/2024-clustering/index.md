@@ -8,6 +8,6 @@ date: '2024-01-01'
 publishDate: '2024-08-14T16:36:50.890950Z'
 publication_types:
 - poster-conference
-publication: '*Accepted to Proceedings of the 38th Conference on Neural Information Processing
+publication: '*Proceedings of the 38th Conference on Neural Information Processing
   Systems (NeurIPS 2024)*'
 ---
