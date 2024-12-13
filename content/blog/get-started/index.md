@@ -1,12 +1,12 @@
 ---
-title: First post
+title: NeurIPS 2024
 summary: An experiment
-date: 2023-10-27
+date: 2024-12-13
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Best part of Princeton'
+  caption: 'My poster'
 
 authors:
   - admin
@@ -17,7 +17,7 @@ tags:
 ---
 
 Welcome 👋
-![Alt Text](/images/both_dynamics.gif)
+
 
 
 
