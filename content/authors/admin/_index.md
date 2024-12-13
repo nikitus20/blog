@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 'PHD @ LIDS'
+role: 'PHD @ MIT'
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: MIT
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -57,10 +57,10 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Research focus on clustering effects for transformers.
+      Research focused on mathematical theory for transformers.
     button:
       text: 'View Research'
-      url: 'https://example.com'
+      url: 'https://nikitus20.github.io/blog/publications/'
   - area: BSc \& MSc in Mathematics
     institution: Saint Petersburg State University
     date_start: 2017-01-01
@@ -148,7 +148,9 @@ awards:
 ## Hello everyone!
 
 I'm Nikita, a PhD student at MIT, fortunate to work under the guidance of Professor [Yury Polyanskiy](https://people.lids.mit.edu/yp/homepage/). 
-With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/). That is why I'm particularly interested in uncovering the fundamental properties that enhance AI interpretability, stability, and efficiency.
+Coming from a mathematical background, I am interested in uncovering the fundamental reasons underlying success of modern AI models. My current research is focused on theoretical properties of transformers.
 
-My current research is dedicated to the theoretical properties of transformers, viewed through the lens of dynamical systems. For more details, feel free to explore my research page.
+With a long history of competing in mathematical olympiads, I'm thrilled by recent breakthroughs in AI reasoning, such as those from [DeepMind](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) and [OpenAI](https://openai.com/index/introducing-openai-o1-preview/) and would love to see this field develop further.
+
+
 
