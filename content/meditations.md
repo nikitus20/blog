@@ -6,4 +6,3 @@ reading_time: false
 ---
 
 This page is dedicated to some random thoughts about life.
-
